@@ -3,5 +3,13 @@
  </head>
  <body>
  </body>
- <dupa/dupa>
+ <dupa>
+    <posladki>
+		<posladekLewy>
+			<tatuaz>KotwicaPiracka</tatuaz>
+		</posladekLewy>
+		<posladekPrawy>
+		</posladekPrawy>
+	</posladki>
+ </dupa>
 </html>
